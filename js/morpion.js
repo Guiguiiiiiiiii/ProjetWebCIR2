@@ -1,7 +1,7 @@
 const cells = document.querySelectorAll('.cell');
 const statusDisplay = document.getElementById('game-status');
 const restartButton = document.getElementById('restart-button');
-
+ffff
 let gameActive = true;
 let currentPlayer = "X"; // Joueur humain
 let gameState = ["", "", "", "", "", "", "", "", ""]; // Représente les 9 cellules
